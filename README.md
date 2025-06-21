@@ -1,7 +1,7 @@
 # LITECHRIS-V2
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Chris Gaaju 🌝💚
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Chris Gaaju ☠️💯
 <p align="center">
   <img src="https://files.catbox.moe/qlej9i.png" />
 </p>
@@ -45,11 +45,11 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔸 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://suho-pair3.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://chris-ses2.onrender.com/pair)
 
 > 🔹 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://suho-pair3.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://chris-ses2.onrender.com/qr)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
